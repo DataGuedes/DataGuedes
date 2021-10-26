@@ -9,7 +9,7 @@
 
 
 
-Passionate about technology, dos, games and space.
+Passionate about technology, data, games and space.</br>
 I always try to evolve as a person and a professional.
 </br></br>
 
