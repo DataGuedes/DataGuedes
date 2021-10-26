@@ -8,7 +8,9 @@
 # About
 
 
-Passionate about technology, data, games and space, always looking to evolve as a person and professional.
+
+Passionate about technology, dos, games and space.
+I always try to evolve as a person and a professional.
 </br></br>
 
 # My skills
