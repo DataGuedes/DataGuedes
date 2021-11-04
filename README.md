@@ -45,9 +45,9 @@ I always try to evolve as a person and a professional.
 
 ## Softwares
 
-<img alt="Hive" src="https://symbols.getvecta.com/stencil_92/28_power-bi.4ef2aca9ea.svg" width="90" height="90" >
+<img alt="PowerBi" src="https://symbols.getvecta.com/stencil_92/28_power-bi.4ef2aca9ea.svg" width="90" height="90" >
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img alt="Hive" src="https://symbols.getvecta.com/stencil_4/56_google-data-studio.d9a0de3dd1.svg" width="50" height="75" >
+<img alt="GoogleDataStudio" src="https://symbols.getvecta.com/stencil_4/56_google-data-studio.d9a0de3dd1.svg" width="50" height="75" >
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 </div></br>
