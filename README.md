@@ -9,8 +9,8 @@
 
 
 
-Passionate about technology, data, games and space.</br>
-I always try to evolve as a person and a professional.
+Apaixonado por tecnologia, dados, jogos, galaxia e conhecer o desconhecido.</br>
+Em constante evolução como profissional e como pessoa.
 </br></br>
 
 # My skills
