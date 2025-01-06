@@ -7,8 +7,6 @@
 
 # About
 
-
-
 Graduando em Big data e IA e matemática.
 
 Sou responsável por impulsionar a transformação digital por meio de iniciativas estratégica, com foco em projetos que utilizam dados para gerar insights e na criação de soluções automatizadas para substituir atividades manuais, melhorando a eficiência e agilidade das operações.
@@ -46,9 +44,12 @@ Experiência em ferramentas como:
     <img alt="Python" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="50" height="50">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <img alt="R" src="https://cdn-icons-png.flaticon.com/512/2103/2103694.png" width="50" 
     height="50">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<!-- 
+ Data: 06/01/2024
+ Comentário: Ferramentas não válidas deixar no git. 
     <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp -->
 </div>
 <br><br>
 
