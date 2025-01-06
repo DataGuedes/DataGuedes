@@ -9,8 +9,32 @@
 
 
 
-Apaixonado por tecnologia, dados, jogos, galaxia e conhecer o desconhecido.</br>
-Em constante evolução como profissional e como pessoa.
+Graduando em Big data e IA e matemática.
+
+Sou responsável por impulsionar a transformação digital por meio de iniciativas estratégica, com foco em projetos que utilizam dados para gerar insights e na criação de soluções automatizadas para substituir atividades manuais, melhorando a eficiência e agilidade das operações.
+Eu busco colaborar com empresas para resolver problemas e obter insights valiosos através do uso de dados.
+
+Conhecimento em:
+
+ - Modelagem de dados relacional e não relacional;
+ - Metodologias Ágeis;
+ - Métricas;
+ - Análise de dados;
+ - Estruturação de banco de dados;
+ - Arquitetura AWS;
+ - AirFlow;
+ - Spark / PySpark;
+ - Pandas/Numpy
+
+Experiência em ferramentas como:
+
+ - Linguagens de programação (Python, JavaScript, Java, R);
+ - SQL e MYSQL;
+ - PowerBi (DAX);
+ - MS Excel;
+ - Kubernetes;
+ - Docker;
+   
 </br></br>
 
 # My skills
